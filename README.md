@@ -61,6 +61,5 @@ Sigue estos pasos para clonar y levantar el proyecto en tu entorno local:
 
 ### 1. Clonar el Repositorio
 Abre tu terminal y ejecuta el siguiente comando utilizando tu repositorio limpio:
-```bash
-git clone [https://github.com/JosueIsrael-prog/Gesti-n-de-Usuarios-para-App-de-Comida-Estudiantil.git](https://github.com/JosueIsrael-prog/Gesti-n-de-Usuarios-para-App-de-Comida-Estudiantil.git)
+git clone https://github.com/JosueIsrael-prog/Gesti-n-de-Usuarios-para-App-de-Comida-Estudiantil.git
 cd Gesti-n-de-Usuarios-para-App-de-Comida-Estudiantil
